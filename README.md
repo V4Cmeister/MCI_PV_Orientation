@@ -15,4 +15,4 @@ Heiss Lukas
 
 ## Daten: ratio_clouded_over_cloudfree as .csv
 - Format: Zeit und Datum, Relativer Wert der UV Strahlung (deltaUV)
-- diese deltaUV wird berechned: deltaUV = gemessener Wert/ erwarteder Wert.
+- diese deltaUV wird berechned: deltaUV = gemessener Wert/ erwarteter Wert.
