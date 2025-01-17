@@ -2,10 +2,10 @@
 Numerik Group Project
 
 ## Teammitglieder
-Soukopf Nikolaus
-Erdogan Abdullah
-Holzmann Kevin
-Heiss Lukas
+- Soukopf Nikolaus
+- Erdogan Abdullah
+- Holzmann Kevin
+- Heiss Lukas
 
 ## Azimut
 - Norden Azimutwinkel = 0°
